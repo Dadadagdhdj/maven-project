@@ -3,7 +3,7 @@ package com.fortune.myapp;
 /**
  * Hello world!
  */
-public class App {
+public class app {
 
     private static final String MESSAGE = "Hello good evening World!";
 
